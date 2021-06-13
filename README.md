@@ -6,7 +6,7 @@ I work for skillful career rather than regular career that I can be satisfied fo
 <br>
 <img align="right" src="https://www.inventateq.com/assets/python/small.gif" width="400px" />
 
-- 🔭 I’m currently working on ad [ada-asia](https://devdoot.ekatta.in/) in Django as a Web Developer
+- 🔭 I’m currently working on ad [Devdoot](http://devdoot.ekatta.in/) in Django as a Web Developer
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on ImageProcessing Projects
 - 🤔 I’m looking for help with Game Development __feel free to contact if interested__
@@ -19,21 +19,13 @@ I work for skillful career rather than regular career that I can be satisfied fo
 ## 🛠️ My favorite tools
 
 ### 👨‍💻 Programming languages
-
 <p>
-    <a href="https://github.com/search?q=user%3krisskad1+is%3Arepo+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3krisskad1+is%3Arepo+language%3Ac"><img alt="C" src="https://img.shields.io/badge/C%20-%232370ED.svg?logo=c&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3krisskad1+is%3Arepo+language%3Acpp"><img alt="C++" src="https://img.shields.io/badge/C++%20-%2300599C.svg?logo=c%2B%2B&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3krisskad1+is%3Arepo+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white"></a>
-
-    <a href="https://github.com/search?q=user%3krisskad1+is%3Arepo+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML%20-%23E34F26.svg?logo=html5&logoColor=white"></a>
-
-    <a href="https://github.com/search?q=user%3krisskad1+is%3Arepo+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black"></a>
-
-    <a href="https://github.com/search?q=user%3krisskad1+is%3Arepo+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3krisskad1+is%3Arepo+language%3Asql"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
+    <a href="#"><img alt="C" src="https://img.shields.io/badge/-c-00979D?logo=c&logoColor=white"></a>
+    <a href="#"><img alt="Python" src="https://img.shields.io/badge/-Arduino-00979D?logo=python&logoColor=white"></a>
+    <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/Numpy%20-%23013243.svg?logo=javascript&logoColor=white"></a>
+    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Pandas%20-%23150458.svg?logo=bash&logoColor=white"></a>
+    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/OpenCV%20-%23FF6F00.svg?logo=sql&logoColor=white"></a>
 </p>
-
 
 ### 🧰 Frameworks and libraries
 
@@ -46,8 +38,6 @@ I work for skillful career rather than regular career that I can be satisfied fo
     <a href="#"><img alt="Django" src="https://img.shields.io/badge/Django%20-%23FF6F00.svg?logo=Django&logoColor=white"></a>
     <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask%20-%23FF6F00.svg?logo=Flask&logoColor=white"></a>
     <a href="#"><img alt="P5js" src="https://img.shields.io/badge/P5js%20-%23FF6F00.svg?logo=P5js&logoColor=white"></a>
-
-
 </p>
 
 ### 🗄️ Databases and cloud hosting
