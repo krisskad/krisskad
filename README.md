@@ -121,7 +121,7 @@
 <!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
 <!-- YouTube Cards - WIP by DenverCoder1 -->
 <!-- YOUTUBE:START -->
-[![Keeping your dependencies updated automatically with Dependabot](https://freshidea.com/jonah/app/youtube-card/?id=22XrqdIe8oQ)](https://www.youtube.com/watch?v=5nwadU7w8Z8 "MARITIME SURVEILLANCE")
+[![Keeping your dependencies updated automatically with Dependabot](https://i.ytimg.com/vi/5nwadU7w8Z8/hqdefault.jpg)](https://www.youtube.com/watch?v=5nwadU7w8Z8 "MARITIME SURVEILLANCE")
 
 ## Github Activity Graph
 
