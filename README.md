@@ -21,10 +21,10 @@ I work for skillful career rather than regular career that I can be satisfied fo
 ### 👨‍💻 Programming languages
 <p>
     <a href="#"><img alt="C" src="https://img.shields.io/badge/-c-00979D?logo=c&logoColor=white"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%00979D?logo=python&logoColor=white"></a>
+    <a href="https://github.com/krisskad/rmLogo"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23013243.svg?logo=javascript&logoColor=white"></a>
-    <a href="#"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23150458.svg?logo=bash&logoColor=white"></a>
-    <a href="#"><img alt="SQL" src="https://img.shields.io/badge/Sql%20-%23FF6F00.svg?logo=sql&logoColor=white"></a>
+    <a href="https://github.com/krisskad/"><img alt="Bash" src="https://img.shields.io/badge/Bash%20-%23121011.svg?logo=gnu-bash&logoColor=white"></a>
+    <a href="https://github.com/krisskad/Devdoot"><img alt="SQL" src="https://img.shields.io/badge/SQL%20-%23025E8C.svg?logo=amazon-dynamodb&logoColor=white"></a>
 </p>
 
 ### 🧰 Frameworks and libraries
