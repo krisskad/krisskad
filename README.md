@@ -1,10 +1,6 @@
 
 
 
-### 
-<h4 align="center">Visitor's count :eyes:</h4>
-
-<p align="center"><img src="https://profile-counter.glitch.me/{AnhellO}/count.svg" alt="AnhellO :: Visitor's Count" /></p>
 
 
 ### ⚙️ &nbsp;GitHub Analytics
@@ -119,3 +115,12 @@
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/wordpress-ar21.svg"> </code>
 <code> <img height="50" src="https://github.com/uannabi/-/blob/master/resource/other/surgesh-ar21.svg"> </code>
 </p>
+
+## 📺 Latest YouTube videos
+
+<!-- Feed workflow - https://github.com/gautamkrishnar/blog-post-workflow -->
+<!-- YouTube Cards - WIP by DenverCoder1 -->
+
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<a href="https://github.com/krisskad/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=krisskad&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
