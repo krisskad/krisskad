@@ -6,7 +6,7 @@ I work for skillful career rather than regular career that I can be satisfied fo
 <br>
 <img align="right" src="https://www.inventateq.com/assets/python/small.gif" width="400px" />
 
-- 🔭 I’m currently working on ad [Devdoot](http://devdoot.ekatta.in/) in Django as a Web Developer
+- 🔭 I’m currently working on ad [E-Commerce Insights](https://category-insights.ongil.io/) in Django as a Backend Developer
 - 🌱 I’m currently learning Deep learning
 - 👯 I’m looking to collaborate on ImageProcessing Projects
 - 🤔 I’m looking for help with Game Development __feel free to contact if interested__
